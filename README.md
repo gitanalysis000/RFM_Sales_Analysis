@@ -1,8 +1,6 @@
 <h1 style='color:orange'>Sales Data analysis suing SQL and RFM analysis 📃✨</h1>
 
-![GitHub](https://img.shields.io/github/license/bharathguntreddi3/RFM-Sales-analysis)
-![GitHub last commit](https://img.shields.io/github/last-commit/bharathguntreddi3/RFM-Sales-analysis)
-![GitHub issues](https://img.shields.io/github/issues-raw/bharathguntreddi3/RFM-Sales-analysis)
+
 
 <h2 style='color:blue'>Table of Contents  📋 </h2>
 
@@ -12,8 +10,7 @@
 - [RFM Analysis](#rfm-analysis)
 - [Analysis](#analysis)
 - [Dashboard](#dashboard)
-- [Contributing](#contributing)
-- [License](#license)
+
 
 ## 📖 Introduction
 
@@ -26,7 +23,7 @@ To get started with the sales data analysis project, follow these steps:
 1. Clone the repository:
 
    ```bash
-    git clone https://github.com/bharathguntreddi3/RFM-sales-analysis.git
+    git clone https://github.com/gitanalysis000/RFM-sales-analysis.git
     cd RFM-sales-analysis
     ```
 2. Open RFM_sales.sql file in SQL server or your SQL development kit.
@@ -73,46 +70,5 @@ Here are a few examples of the analysis you can perform using this repository:
 
 Feel free to explore the repository and customize the SQL queries according to your specific requirements.
 
-## 📊 Dashboard
 
-Here is a preview of the interactive dashboard created using Tableau:
-
-![RFM_Sales_1](https://github.com/bharathguntreddi3/RFM-Sales-analysis/assets/95229816/40e754eb-f407-4972-8159-25decc80fa88)
-
-### Find the Live Dashboard [here](https://public.tableau.com/app/profile/guntreddi.bharath/viz/RFM_MetricSales/RFM_Sales_1?publish=yes)
-
-## 🤝 Contributing
-
-Contributions to this repository are welcome! If you have any ideas, suggestions, or improvements, please follow these steps:
-1. Fork the repository.
-
-2. Create a new branch.
-
-    ```bash
-        git checkout -b feature/your-feature
-    ```
-3. Make your changes and commit them.
-
-    ```bash
-        git commit -m 'Add some feature'
-    ```
-4. Push your changes to your forked repository.
-
-    ``bash
-        git push origin feature/your-feature
-    ```
-5. Open a pull request.
-
-Once your pull request is submitted, it will be reviewed, and any necessary feedback or changes will be communicated.
-
-## 📄 License
-This project is licensed under the [MIT License](LICENSE). Feel free to use, modify, and distribute the code as per the terms of the license.
-
-I hope this repository helps you gain valuable insights from your sales data using SQL and RFM analysis. If you have any questions or need further assistance, please feel free to open an issue. Happy analyzing!
-
-If you find this project interesting and useful, show your support by starring ⭐ the repository and sharing it with others. Let's revolutionize productivity together!
-
-## If any necessary commits are required to increase the elegance of this repo! i'm always open for a PR.
-
-## With this signing off..!!, BHARATH GUNTREDDI ..🤞
 
